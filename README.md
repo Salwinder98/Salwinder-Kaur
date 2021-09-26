@@ -1,2 +1,2 @@
-# Salwinder-Kaur
+Salwinder 
 Software Quality and Assurance
